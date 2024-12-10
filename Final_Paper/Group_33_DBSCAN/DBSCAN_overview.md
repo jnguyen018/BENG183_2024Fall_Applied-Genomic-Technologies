@@ -12,6 +12,8 @@ Clustering is a widely used bioinformatics technique that uses an unsupervised m
 
 ## Algorithm Overview:
 
+Step 1:
+
 ---
 
 ## Comparison with k-means Clustering:
